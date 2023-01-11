@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<wpml-config>
+	<custom-fields>
+	 <custom-field action="translate">_customizer_style</custom-field>
+	 <custom-field action="translate">_customizer_steps</custom-field>
+	 <custom-field action="translate">customizer_linked_id</custom-field>
+	</custom-fields>
+</wpml-config>

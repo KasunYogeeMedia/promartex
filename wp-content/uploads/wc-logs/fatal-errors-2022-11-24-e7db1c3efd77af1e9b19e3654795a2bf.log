@@ -1,0 +1,6 @@
+2022-11-24T06:39:04+00:00 CRITICAL syntax error, unexpected end of file in /home/bzyyummy/public_html/websites/promartex/wp-content/themes/promatex/page-b2b.php on line 47
+
+2022-11-24T07:41:16+00:00 CRITICAL syntax error, unexpected ''parent'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/bzyyummy/public_html/websites/promartex/wp-content/themes/promatex/page-b2b.php on line 31
+
+2022-11-24T07:59:57+00:00 CRITICAL syntax error, unexpected 'the_field' (T_STRING), expecting ')' in /home/bzyyummy/public_html/websites/promartex/wp-content/themes/promatex/page-b2b.php on line 22
+

@@ -1,0 +1,40 @@
+/*
+ * Styling for the admin
+ *
+*/
+
+#variable_product_options.wcbv-hidden .wcbv-variation-discounts {
+	display: none !important;
+}
+
+.wcbv-discount-rules {
+	margin: 0 0 20px 0;
+}
+
+.wcbv-discount-rule {
+	display: flex;
+}
+
+.wcbv-discount-rule > div {
+	flex: 1;
+	padding: 0 4px;
+}
+
+.wcbv-discount-rule select {
+	display: block;
+	width: 100%;
+}
+
+.wcbv-rule-action {
+	display: inline-block;
+	margin-top: 24px;
+}
+
+.wcbv-rule-action[data-type="sort"] {
+	cursor: move;
+}
+
+.wcbv-rule-action[data-type="remove"] {
+	color: red;
+	cursor: pointer;
+}

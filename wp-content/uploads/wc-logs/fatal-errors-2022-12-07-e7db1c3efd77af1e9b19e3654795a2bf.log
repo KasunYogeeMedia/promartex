@@ -1,0 +1,84 @@
+2022-12-07T02:10:01+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/yogeedev/public_html/websites/promartex/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/yogeedev/public_html/websites/promartex/wp-settings.php(617): do_action('init')
+#3 /home/yogeedev/public_html/websites/promartex/wp-config.php(96): require_once('/home/yogeedev/...')
+#4 /home/yogeedev/public_html/websites/promartex/wp-load.php(50): require_once('/home/yogeedev/...')
+#5 /home/yogeedev/public_html/websites/promartex/wp-blog-header.php(13): require_once('/home/yogeedev/...')
+#6 /home/yogeedev/public_html/websites/promartex/index.php(17): require('/home/yogeedev/...')
+#7 {main}
+  thrown in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php on line 308
+
+2022-12-07T02:10:08+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/yogeedev/public_html/websites/promartex/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/yogeedev/public_html/websites/promartex/wp-settings.php(617): do_action('init')
+#3 /home/yogeedev/public_html/websites/promartex/wp-config.php(96): require_once('/home/yogeedev/...')
+#4 /home/yogeedev/public_html/websites/promartex/wp-load.php(50): require_once('/home/yogeedev/...')
+#5 /home/yogeedev/public_html/websites/promartex/wp-blog-header.php(13): require_once('/home/yogeedev/...')
+#6 /home/yogeedev/public_html/websites/promartex/index.php(17): require('/home/yogeedev/...')
+#7 {main}
+  thrown in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php on line 308
+
+2022-12-07T02:10:11+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/yogeedev/public_html/websites/promartex/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/yogeedev/public_html/websites/promartex/wp-settings.php(617): do_action('init')
+#3 /home/yogeedev/public_html/websites/promartex/wp-config.php(96): require_once('/home/yogeedev/...')
+#4 /home/yogeedev/public_html/websites/promartex/wp-load.php(50): require_once('/home/yogeedev/...')
+#5 /home/yogeedev/public_html/websites/promartex/wp-blog-header.php(13): require_once('/home/yogeedev/...')
+#6 /home/yogeedev/public_html/websites/promartex/index.php(17): require('/home/yogeedev/...')
+#7 {main}
+  thrown in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php on line 308
+
+2022-12-07T02:10:13+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/yogeedev/public_html/websites/promartex/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/yogeedev/public_html/websites/promartex/wp-settings.php(617): do_action('init')
+#3 /home/yogeedev/public_html/websites/promartex/wp-config.php(96): require_once('/home/yogeedev/...')
+#4 /home/yogeedev/public_html/websites/promartex/wp-load.php(50): require_once('/home/yogeedev/...')
+#5 /home/yogeedev/public_html/websites/promartex/wp-blog-header.php(13): require_once('/home/yogeedev/...')
+#6 /home/yogeedev/public_html/websites/promartex/index.php(17): require('/home/yogeedev/...')
+#7 {main}
+  thrown in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php on line 308
+
+2022-12-07T02:10:21+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/yogeedev/public_html/websites/promartex/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/yogeedev/public_html/websites/promartex/wp-settings.php(617): do_action('init')
+#3 /home/yogeedev/public_html/websites/promartex/wp-config.php(96): require_once('/home/yogeedev/...')
+#4 /home/yogeedev/public_html/websites/promartex/wp-load.php(50): require_once('/home/yogeedev/...')
+#5 /home/yogeedev/public_html/websites/promartex/wp-blog-header.php(13): require_once('/home/yogeedev/...')
+#6 /home/yogeedev/public_html/websites/promartex/index.php(17): require('/home/yogeedev/...')
+#7 {main}
+  thrown in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php on line 308
+
+2022-12-07T02:12:48+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/yogeedev/public_html/websites/promartex/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/yogeedev/public_html/websites/promartex/wp-settings.php(617): do_action('init')
+#3 /home/yogeedev/public_html/websites/promartex/wp-config.php(96): require_once('/home/yogeedev/...')
+#4 /home/yogeedev/public_html/websites/promartex/wp-load.php(50): require_once('/home/yogeedev/...')
+#5 /home/yogeedev/public_html/websites/promartex/wp-blog-header.php(13): require_once('/home/yogeedev/...')
+#6 /home/yogeedev/public_html/websites/promartex/index.php(17): require('/home/yogeedev/...')
+#7 {main}
+  thrown in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php on line 308
+
+2022-12-07T02:13:00+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/yogeedev/public_html/websites/promartex/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/yogeedev/public_html/websites/promartex/wp-settings.php(617): do_action('init')
+#3 /home/yogeedev/public_html/websites/promartex/wp-config.php(96): require_once('/home/yogeedev/...')
+#4 /home/yogeedev/public_html/websites/promartex/wp-load.php(50): require_once('/home/yogeedev/...')
+#5 /home/yogeedev/public_html/websites/promartex/wp-blog-header.php(13): require_once('/home/yogeedev/...')
+#6 /home/yogeedev/public_html/websites/promartex/index.php(17): require('/home/yogeedev/...')
+#7 {main}
+  thrown in /home/yogeedev/public_html/websites/promartex/wp-includes/class-wp-hook.php on line 308
+

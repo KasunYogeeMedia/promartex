@@ -1,0 +1,84 @@
+2023-01-10T14:52:19+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/promartex/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/promartex/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/promartex/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/promartex/public_html/wp-settings.php(617): do_action('init')
+#3 /home/promartex/public_html/wp-config.php(96): require_once('/home/promartex...')
+#4 /home/promartex/public_html/wp-load.php(50): require_once('/home/promartex...')
+#5 /home/promartex/public_html/wp-blog-header.php(13): require_once('/home/promartex...')
+#6 /home/promartex/public_html/index.php(17): require('/home/promartex...')
+#7 {main}
+  thrown in /home/promartex/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-01-10T14:53:08+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/promartex/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/promartex/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/promartex/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/promartex/public_html/wp-settings.php(617): do_action('init')
+#3 /home/promartex/public_html/wp-config.php(96): require_once('/home/promartex...')
+#4 /home/promartex/public_html/wp-load.php(50): require_once('/home/promartex...')
+#5 /home/promartex/public_html/wp-blog-header.php(13): require_once('/home/promartex...')
+#6 /home/promartex/public_html/index.php(17): require('/home/promartex...')
+#7 {main}
+  thrown in /home/promartex/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-01-10T14:53:13+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/promartex/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/promartex/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/promartex/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/promartex/public_html/wp-settings.php(617): do_action('init')
+#3 /home/promartex/public_html/wp-config.php(96): require_once('/home/promartex...')
+#4 /home/promartex/public_html/wp-load.php(50): require_once('/home/promartex...')
+#5 /home/promartex/public_html/wp-blog-header.php(13): require_once('/home/promartex...')
+#6 /home/promartex/public_html/index.php(17): require('/home/promartex...')
+#7 {main}
+  thrown in /home/promartex/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-01-10T14:55:49+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/promartex/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/promartex/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/promartex/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/promartex/public_html/wp-settings.php(617): do_action('init')
+#3 /home/promartex/public_html/wp-config.php(96): require_once('/home/promartex...')
+#4 /home/promartex/public_html/wp-load.php(50): require_once('/home/promartex...')
+#5 /home/promartex/public_html/wp-blog-header.php(13): require_once('/home/promartex...')
+#6 /home/promartex/public_html/index.php(17): require('/home/promartex...')
+#7 {main}
+  thrown in /home/promartex/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-01-10T14:57:12+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/promartex/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/promartex/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/promartex/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/promartex/public_html/wp-settings.php(617): do_action('init')
+#3 /home/promartex/public_html/wp-config.php(96): require_once('/home/promartex...')
+#4 /home/promartex/public_html/wp-load.php(50): require_once('/home/promartex...')
+#5 /home/promartex/public_html/wp-blog-header.php(13): require_once('/home/promartex...')
+#6 /home/promartex/public_html/index.php(17): require('/home/promartex...')
+#7 {main}
+  thrown in /home/promartex/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-01-10T14:59:36+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/promartex/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/promartex/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/promartex/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/promartex/public_html/wp-settings.php(617): do_action('init')
+#3 /home/promartex/public_html/wp-config.php(96): require_once('/home/promartex...')
+#4 /home/promartex/public_html/wp-load.php(50): require_once('/home/promartex...')
+#5 /home/promartex/public_html/wp-blog-header.php(13): require_once('/home/promartex...')
+#6 /home/promartex/public_html/index.php(17): require('/home/promartex...')
+#7 {main}
+  thrown in /home/promartex/public_html/wp-includes/class-wp-hook.php on line 308
+
+2023-01-10T15:00:33+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method Multilevel_Navigation_Menu_WP::mnmwp_register_menu() cannot be called statically in /home/promartex/public_html/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/promartex/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/promartex/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/promartex/public_html/wp-settings.php(617): do_action('init')
+#3 /home/promartex/public_html/wp-config.php(96): require_once('/home/promartex...')
+#4 /home/promartex/public_html/wp-load.php(50): require_once('/home/promartex...')
+#5 /home/promartex/public_html/wp-blog-header.php(13): require_once('/home/promartex...')
+#6 /home/promartex/public_html/index.php(17): require('/home/promartex...')
+#7 {main}
+  thrown in /home/promartex/public_html/wp-includes/class-wp-hook.php on line 308
+

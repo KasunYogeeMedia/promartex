@@ -1,0 +1,694 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tailors Online\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-24 11:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.2"
+
+#: admin/customizer-templates/template-customizer.php:13
+#: admin/partials/hooks.php:221 admin/partials/hooks.php:523
+msgid "Add apparel title"
+msgstr ""
+
+#: admin/partials/hooks.php:198 admin/partials/hooks.php:465
+msgid "Add Apparels"
+msgstr ""
+
+#: admin/post-types/customizer.php:48
+msgid "Add Customizer"
+msgstr ""
+
+#: admin/partials/hooks.php:164
+msgid "Add description"
+msgstr ""
+
+#: admin/partials/hooks.php:777 admin/partials/hooks.php:890
+msgid "Add measurement assets"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:243 woocommerce/class-woocommerce.php:338
+#: woocommerce/class-woocommerce.php:362
+msgid "Add Measurements"
+msgstr ""
+
+#: admin/partials/hooks.php:347 admin/partials/hooks.php:729
+msgid "Add More Apparels"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:106
+#: admin/partials/hooks.php:333 admin/partials/hooks.php:709
+msgid "Add More Steps"
+msgstr ""
+
+#: admin/post-types/customizer.php:49
+msgid "Add New Customizer"
+msgstr ""
+
+#: admin/post-types/customizer.php:93
+msgid "Add New Measurement"
+msgstr ""
+
+#: templates/cart/item_cart_measurements.php:27
+msgid "Add size here (centimeter)"
+msgstr ""
+
+#: templates/cart/item_cart_measurements.php:30
+msgid "Add size here (inches)"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:99
+#: admin/customizer-templates/template-customizer.php:154
+#: admin/partials/hooks.php:178 admin/partials/hooks.php:322
+#: admin/partials/hooks.php:448 admin/partials/hooks.php:694
+msgid "Add step assets"
+msgstr ""
+
+#: admin/partials/hooks.php:155 admin/partials/hooks.php:386
+msgid "Add Styles"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:87
+#: admin/customizer-templates/template-customizer.php:141
+#: admin/customizer-templates/template-customizer.php:178
+#: admin/customizer-templates/template-customizer.php:202
+#: admin/customizer-templates/template-customizer.php:240
+#: admin/customizer-templates/template-measurement.php:13
+#: admin/partials/hooks.php:161 admin/partials/hooks.php:307
+#: admin/partials/hooks.php:392 admin/partials/hooks.php:432
+#: admin/partials/hooks.php:611 admin/partials/hooks.php:659
+#: admin/partials/hooks.php:874
+msgid "Add title"
+msgstr ""
+
+#: admin/partials/functions.php:120
+msgid "Add you custom styling in this box area"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:250
+msgid "Add your measurements"
+msgstr ""
+
+#: admin/post-types/customizer.php:88
+msgid "All Measurement"
+msgstr ""
+
+#: admin/partials/functions.php:214
+msgid "All Rights Reserved"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:8
+msgid "Apparel"
+msgstr ""
+
+#: admin/partials/hooks.php:215 admin/partials/hooks.php:516
+msgid "apparel"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:43
+#: admin/partials/hooks.php:261 admin/partials/hooks.php:556
+msgid "Apparel back image"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:48
+#: admin/partials/hooks.php:267 admin/partials/hooks.php:561
+msgid "Apparel back image."
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:23
+#: admin/partials/hooks.php:236 admin/partials/hooks.php:536
+msgid "Apparel front image"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:28
+#: admin/partials/hooks.php:243 admin/partials/hooks.php:541
+msgid "Apparel front image."
+msgstr ""
+
+#: admin/partials/hooks.php:224 admin/partials/hooks.php:525
+msgid "Apparel Front/Back images"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:15
+msgid "Apparel front/back images"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:59
+#: admin/partials/hooks.php:278 admin/partials/hooks.php:570
+msgid "Apparel Steps"
+msgstr ""
+
+#: admin/class-alteration-admin.php:107 helpers/constants.php:12
+msgid "Are you sure you want to delete this apparel?"
+msgstr ""
+
+#: admin/class-alteration-admin.php:109 helpers/constants.php:14
+msgid "Are you sure you want to delete this step?"
+msgstr ""
+
+#: public/class-alteration-public.php:101
+msgid "Are you sure you want to process this order?"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:192
+#: admin/partials/hooks.php:649
+msgid "Assets"
+msgstr ""
+
+#: admin/partials/functions.php:158
+msgid "Banner"
+msgstr ""
+
+#: admin/partials/functions.php:160
+msgid "Best Wordpress Plugin For"
+msgstr ""
+
+#: admin/partials/functions.php:41
+msgid ""
+"By enabling these settings, customizer button will be display at product "
+"detail page"
+msgstr ""
+
+#: admin/partials/functions.php:54
+msgid ""
+"By enabling this settings, product add to cart button will be replace with "
+"customizer button."
+msgstr ""
+
+#: admin/partials/hooks.php:827
+msgid "Centi Meter"
+msgstr ""
+
+#: public/functions.php:61 templates/admin/order_info.php:82
+#: templates/checkout/item_cart_info.php:69 templates/emails/email-order.php:95
+#: templates/thankyou/order_info.php:83
+msgid "Centimeter"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:220
+msgid "Change Settings"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:228
+msgid "Change Your Settings"
+msgstr ""
+
+#: admin/partials/hooks.php:761
+msgid "Cm"
+msgstr ""
+
+#. Author of the plugin
+#: admin/partials/functions.php:214
+msgid "CodeZel"
+msgstr ""
+
+#: admin/partials/functions.php:105
+msgid "Color Scheme"
+msgstr ""
+
+#: admin/partials/functions.php:116 admin/partials/functions.php:117
+msgid "Custom Css"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:336 woocommerce/class-woocommerce.php:360
+msgid "Customize Garment"
+msgstr ""
+
+#: admin/partials/functions.php:59
+msgid "Customize Now"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:73 woocommerce/class-woocommerce.php:75
+#: woocommerce/class-woocommerce.php:104
+msgid "Customize Now!"
+msgstr ""
+
+#: templates/admin/order_info.php:21
+msgid "Customize Order Detail"
+msgstr ""
+
+#: includes/class-alteration-activator.php:66
+#: admin/post-types/customizer.php:46 admin/post-types/customizer.php:47
+msgid "Customizer"
+msgstr ""
+
+#: includes/class-alteration-activator.php:65
+msgid "customizer"
+msgstr ""
+
+#: admin/post-types/customizer.php:140
+msgid "Customizer Settings"
+msgstr ""
+
+#: templates/steps.php:92
+msgid "Customizer Style"
+msgstr ""
+
+#: admin/class-alteration-admin.php:106 helpers/constants.php:11
+msgid "Delete apparel?"
+msgstr ""
+
+#: admin/class-alteration-admin.php:108 helpers/constants.php:13
+msgid "Delete Step?"
+msgstr ""
+
+#: admin/post-types/customizer.php:50
+msgid "Edit"
+msgstr ""
+
+#: admin/post-types/customizer.php:51
+msgid "Edit Customizer"
+msgstr ""
+
+#: admin/post-types/customizer.php:91
+msgid "Edit Measurement"
+msgstr ""
+
+#: admin/partials/functions.php:79
+msgid "Enable customizer on detail page"
+msgstr ""
+
+#: admin/partials/functions.php:66
+msgid "Enable Measurements"
+msgstr ""
+
+#: admin/partials/functions.php:31
+msgid "Enable Product Customizer"
+msgstr ""
+
+#: admin/partials/functions.php:58
+msgid "Enter Text For Customizer Button"
+msgstr ""
+
+#: templates/steps.php:45
+msgid "Finish"
+msgstr ""
+
+#: admin/partials/functions.php:208
+msgid "Follow us"
+msgstr ""
+
+#: admin/partials/functions.php:195
+msgid "For More Videos View Our Channel"
+msgstr ""
+
+#: admin/partials/functions.php:101
+msgid "Force measurements on cart and checkout page."
+msgstr ""
+
+#: admin/partials/functions.php:92
+msgid "Force Measurements?"
+msgstr ""
+
+#: admin/partials/functions.php:25
+msgid "General Options"
+msgstr ""
+
+#: admin/partials/functions.php:202
+msgid "Get a quick help"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/codezel"
+msgstr ""
+
+#: admin/partials/functions.php:75
+msgid ""
+"If measurements will be enable then measurements settings will be shown at "
+"cart and checkout page."
+msgstr ""
+
+#: admin/partials/hooks.php:760
+msgid "In"
+msgstr ""
+
+#: public/functions.php:63 admin/partials/hooks.php:826
+#: templates/admin/order_info.php:80 templates/checkout/item_cart_info.php:67
+#: templates/emails/email-order.php:93 templates/thankyou/order_info.php:81
+msgid "Inches"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:83
+#: admin/customizer-templates/template-customizer.php:137
+#: admin/partials/hooks.php:303 admin/partials/hooks.php:607
+msgid "IS BACK?"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:75
+#: admin/customizer-templates/template-customizer.php:129
+#: admin/partials/hooks.php:295 admin/partials/hooks.php:599
+msgid "IS FRONT?"
+msgstr ""
+
+#: admin/partials/functions.php:146
+msgid "logo"
+msgstr ""
+
+#: admin/customizer-templates/template-measurement.php:6
+#: admin/partials/hooks.php:861
+msgid "Measurement"
+msgstr ""
+
+#: admin/post-types/customizer.php:195 templates/admin/order_info.php:98
+#: templates/thankyou/order_info.php:99
+msgid "Measurement Type"
+msgstr ""
+
+#: admin/post-types/customizer.php:95 templates/checkout/item_cart_info.php:62
+msgid "Measurements"
+msgstr ""
+
+#: public/hooks.php:147
+msgid "Measurements updated successfully"
+msgstr ""
+
+#: templates/admin/order_info.php:76 templates/admin/order_info.php:96
+#: templates/emails/email-order.php:84 templates/thankyou/order_info.php:77
+#: templates/thankyou/order_info.php:97
+msgid "Measurements?"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:92
+#: admin/customizer-templates/template-customizer.php:146
+#: admin/partials/hooks.php:167 admin/partials/hooks.php:313
+#: admin/partials/hooks.php:397 admin/partials/hooks.php:616
+#: admin/partials/hooks.php:769 admin/partials/hooks.php:844
+msgid "Media Files / Assets"
+msgstr ""
+
+#: admin/partials/functions.php:173
+msgid "Minimum System Requirements"
+msgstr ""
+
+#: admin/post-types/customizer.php:52
+msgid "New Customizer"
+msgstr ""
+
+#: admin/post-types/customizer.php:94
+msgid "New Measurement Name"
+msgstr ""
+
+#: templates/cart/item_cart_measurements.php:83
+msgid "Next"
+msgstr ""
+
+#: admin/partials/functions.php:36 admin/partials/functions.php:50
+#: admin/partials/functions.php:71 admin/partials/functions.php:84
+#: admin/partials/functions.php:97
+msgid "No"
+msgstr ""
+
+#: admin/post-types/customizer.php:56
+msgid "No Customizer found"
+msgstr ""
+
+#: admin/post-types/customizer.php:57
+msgid "No Customizer found in trash"
+msgstr ""
+
+#: public/hooks.php:46 public/hooks.php:112 public/hooks.php:166
+msgid "No kiddies please!"
+msgstr ""
+
+#: admin/partials/functions.php:160
+msgid "Online Tailoring"
+msgstr ""
+
+#: templates/steps.php:62
+msgid "Ooops! no steps found."
+msgstr ""
+
+#: admin/post-types/customizer.php:58
+msgid "Parent Customizer"
+msgstr ""
+
+#: admin/post-types/customizer.php:89
+msgid "Parent Measurement"
+msgstr ""
+
+#: admin/post-types/customizer.php:90
+msgid "Parent Measurement:"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:144
+#: admin/partials/hooks.php:310
+msgid "Please add description"
+msgstr ""
+
+#: public/class-alteration-public.php:100
+msgid "Please add measurements before process this order."
+msgstr ""
+
+#: public/hooks.php:93
+msgid "Please install woocommerce plugin"
+msgstr ""
+
+#: templates/cart/item_cart_measurements.php:82
+msgid "Previous"
+msgstr ""
+
+#: public/class-alteration-public.php:98
+msgid "Process order?"
+msgstr ""
+
+#: admin/partials/functions.php:200
+msgid "Quick Links"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:340 woocommerce/class-woocommerce.php:364
+msgid "Receive Order"
+msgstr ""
+
+#: admin/partials/functions.php:45
+msgid "Replace add to cart button"
+msgstr ""
+
+#: templates/cart/item_cart_change_settings.php:89
+#: templates/cart/item_cart_measurements.php:141
+msgid "Save & Close"
+msgstr ""
+
+#: templates/cart/item_cart_change_settings.php:88
+#: templates/cart/item_cart_measurements.php:140
+msgid "Save Settings"
+msgstr ""
+
+#: admin/post-types/customizer.php:55
+msgid "Search Customizer"
+msgstr ""
+
+#: admin/post-types/customizer.php:87
+msgid "Search Measurement"
+msgstr ""
+
+#: admin/partials/hooks.php:919 admin/partials/hooks.php:956
+msgid "Select Customizer"
+msgstr ""
+
+#: admin/partials/hooks.php:127
+msgid "Select Customizer Category"
+msgstr ""
+
+#: woocommerce/class-woocommerce.php:335 woocommerce/class-woocommerce.php:359
+msgid "Select Fabric"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:30
+#: admin/customizer-templates/template-customizer.php:50
+msgid "Select File"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:99
+#: admin/customizer-templates/template-customizer.php:155
+#: admin/partials/hooks.php:181 admin/partials/hooks.php:246
+#: admin/partials/hooks.php:269 admin/partials/hooks.php:324
+#: admin/partials/hooks.php:449 admin/partials/hooks.php:542
+#: admin/partials/hooks.php:562 admin/partials/hooks.php:695
+#: admin/partials/hooks.php:778 admin/partials/hooks.php:891
+msgid "Select Files"
+msgstr ""
+
+#: admin/partials/hooks.php:759 admin/partials/hooks.php:823
+msgid "Select Size"
+msgstr ""
+
+#: templates/cart/item_cart_change_settings.php:17
+msgid "Select style"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:176
+#: admin/customizer-templates/template-customizer.php:238
+#: admin/customizer-templates/template-measurement.php:11
+#: admin/partials/hooks.php:430 admin/partials/hooks.php:872
+msgid "Set as Default"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:197
+#: admin/customizer-templates/template-customizer.php:198
+#: admin/partials/hooks.php:654 admin/partials/hooks.php:655
+msgid "Set as default"
+msgstr ""
+
+#: admin/partials/hooks.php:79 admin/post-types/customizer.php:114
+#: admin/post-types/customizer.php:115
+msgid "Settings"
+msgstr ""
+
+#: public/hooks.php:205
+msgid "Settings updated successfully"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:205
+#: admin/partials/hooks.php:662
+msgid "Short description"
+msgstr ""
+
+#: public/hooks.php:53 public/hooks.php:125 public/hooks.php:180
+msgid "Some error occur, please try again later"
+msgstr ""
+
+#: templates/admin/order_info.php:100 templates/thankyou/order_info.php:101
+msgid "Standard"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:67
+#: admin/customizer-templates/template-customizer.php:120
+#: admin/partials/hooks.php:286 admin/partials/hooks.php:589
+msgid "Step"
+msgstr ""
+
+#: templates/steps.php:49 templates/emails/email-order.php:34
+msgid "Style"
+msgstr ""
+
+#: admin/customizer-templates/template-customizer.php:170
+#: admin/customizer-templates/template-customizer.php:210
+#: admin/customizer-templates/template-customizer.php:219
+#: admin/customizer-templates/template-customizer.php:233
+msgid "style"
+msgstr ""
+
+#: templates/admin/order_info.php:35
+#: templates/cart/item_cart_change_settings.php:15
+#: templates/checkout/item_cart_info.php:26
+#: templates/thankyou/order_info.php:36
+msgid "Style?"
+msgstr ""
+
+#: admin/partials/functions.php:150
+msgid ""
+"Tailor Online is a premiere WooCommerce plugin for online custom tailoring. "
+"It is enriched with excellent features including unlimited customizers, "
+"online design and submission, email notifications, measurement submission "
+"for each order and a lot more."
+msgstr ""
+
+#. Name of the plugin
+#: admin/post-types/customizer.php:45
+msgid "Tailors Online"
+msgstr ""
+
+#: admin/partials/functions.php:189
+msgid "Tailors Online Video's"
+msgstr ""
+
+#: admin/partials/functions.php:151
+msgid ""
+"The excellent and robust code is backed up by contemporary and user friendly "
+"design which is almost ready made for tailors and businesses/shops related "
+"to online tailoring."
+msgstr ""
+
+#: admin/partials/functions.php:112
+msgid "This color will be used in all steps at front-end."
+msgstr ""
+
+#: admin/post-types/customizer.php:62
+msgid "This is where you can add new Customizer"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is used for Tailors to get orders online."
+msgstr ""
+
+#: templates/init.php:44 woocommerce/class-woocommerce.php:140
+msgid "This Product have not any customizer to display."
+msgstr ""
+
+#: admin/partials/functions.php:88
+msgid ""
+"This setting will override customizer button with customizer steps at "
+"product detail page."
+msgstr ""
+
+#: admin/partials/functions.php:62
+msgid "This text will be used for customizer button at product detail page."
+msgstr ""
+
+#: admin/post-types/customizer.php:92
+msgid "Update Measurement"
+msgstr ""
+
+#: admin/partials/hooks.php:766
+msgid "Video Link"
+msgstr ""
+
+#: admin/post-types/customizer.php:53 admin/post-types/customizer.php:54
+msgid "View Customizer"
+msgstr ""
+
+#: templates/admin/order_info.php:14
+msgid "View order detail?"
+msgstr ""
+
+#: admin/partials/functions.php:162
+msgid ""
+"We have found the perfect balance between usability, design and code "
+"robustness. Tailor Online is a powerful plugin which is affordable and ready "
+"made for online custom design and tailoring.\n"
+"It is fully responsive and works perfectly on all devices.\n"
+msgstr ""
+
+#: admin/partials/functions.php:148
+msgid "Welcome to"
+msgstr ""
+
+#: admin/partials/hooks.php:74
+msgid "What's New?"
+msgstr ""
+
+#: admin/partials/functions.php:34 admin/partials/functions.php:48
+#: admin/partials/functions.php:69 admin/partials/functions.php:82
+#: admin/partials/functions.php:95
+msgid "Yes"
+msgstr ""
+
+#: public/hooks.php:79
+msgid "You cart has updated. Your are moving to cart page."
+msgstr ""
+
+#: templates/checkout/item_cart_info.php:29
+msgid "Your selected style"
+msgstr ""
+
+#: admin/class-alteration-admin.php:110
+msgid "Your settings has saved."
+msgstr ""
+
+#: templates/emails/email-order.php:41
+msgid "Your Style"
+msgstr ""
+
+#: templates/admin/order_info.php:37 templates/thankyou/order_info.php:38
+msgid "Your style"
+msgstr ""
